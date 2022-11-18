@@ -1,4 +1,12 @@
 ### Hi there 👋
+<a target="_blank" href="https://www.linkedin.com/in/nguy%E1%BB%85n-b%E1%BA%A3o-anh-l%C3%AA-19692121b/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a target="_blank" href="mailto:anhlenguyenbaoanh@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://www.facebook.com/profile.php?id=100013414933512">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 <!--
 **anhbaonguyenle/anhbaonguyenle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
