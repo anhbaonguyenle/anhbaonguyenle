@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=anhbaonguyenle&show_icons=true)
 <a target="_blank" href="https://www.linkedin.com/in/nguy%E1%BB%85n-b%E1%BA%A3o-anh-l%C3%AA-19692121b/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <a target="_blank" href="mailto:anhlenguyenbaoanh@gmail.com">
