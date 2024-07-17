@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anhlenguyenbaoanh@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Food and Game are the reasons to live.
 
 <br>
 
