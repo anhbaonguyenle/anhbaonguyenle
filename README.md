@@ -93,14 +93,6 @@ I am a **WPF Developer** with over a year of professional experience, skilled in
 > Real-time object recognition in videos and images using YOLO-based architectures to generate vocabulary, meanings, and example sentences for English learning. Achieved mAP of 55.6 on 59 object classes. — *Springer*
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=anhbaonguyenle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhbaonguyenle&layout=compact&theme=tokyonight&hide_border=true" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=anhbaonguyenle&theme=tokyonight&hide_border=true" />
