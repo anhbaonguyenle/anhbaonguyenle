@@ -3,8 +3,9 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=anhbaonguyenle&label=Profile%20views&color=0e75b6&style=flat" /> 
-  </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=anhbaonguyenle&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -24,10 +25,7 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=anhbaonguyenle&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    bg_color=#808080/></p>
+    /></p>
 
 <br>
 
-    
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
