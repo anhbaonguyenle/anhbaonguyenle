@@ -82,18 +82,6 @@ I am a **WPF Developer** with over a year of professional experience, skilled in
 
 **Intern Web-Backend Developer** — VNPT &nbsp;`05/2023 – 07/2023`
 > Contract Management module · Laravel (PHP) · MySQL · MVC pattern
-
----
-
-## Featured Projects
-
-<a href="https://github.com/anhbaonguyenle/EShop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anhbaonguyenle&repo=EShop&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/anhbaonguyenle/Blackjack-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anhbaonguyenle&repo=Blackjack-game&theme=tokyonight&hide_border=true" />
-</a>
-
 ---
 
 ## Publications
@@ -110,8 +98,7 @@ I am a **WPF Developer** with over a year of professional experience, skilled in
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=anhbaonguyenle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhbaonguyenle&layout=compact&theme=tokyonight&hide_border=true" />
+[github_dark_dimmed]: https://github-readme-profile-alpha.vercel.app/api?username=anhbaonguyenle& theme=github_dark_dimmed
 
 <br/>
 
