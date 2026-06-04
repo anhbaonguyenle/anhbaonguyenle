@@ -98,7 +98,8 @@ I am a **WPF Developer** with over a year of professional experience, skilled in
 
 <div align="center">
 
-[github_dark_dimmed]: https://github-readme-profile-alpha.vercel.app/api?username=anhbaonguyenle& theme=github_dark_dimmed
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=anhbaonguyenle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhbaonguyenle&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
