@@ -92,12 +92,6 @@ I am a **WPF Developer** with over a year of professional experience, skilled in
 **[An Approach for Object Recognition in Videos for Vocabulary Extraction](https://link.springer.com/chapter/10.1007/978-3-031-59462-5_3)**
 > Real-time object recognition in videos and images using YOLO-based architectures to generate vocabulary, meanings, and example sentences for English learning. Achieved mAP of 55.6 on 59 object classes. — *Springer*
 
----
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=anhbaonguyenle&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
