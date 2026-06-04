@@ -1,31 +1,124 @@
-<h1 align="center">Hi 👋, I'm Nguyen Bao Anh Le</h1>
-<h3 align="center">Software developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=130&section=header" width="100%"/>
 
-<br>
+<div align="center">
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=anhbaonguyenle&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<h1>Le Nguyen Bao Anh 👋</h1>
 
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=WPF+%2F+.NET+Developer;Aspiring+Full+Stack+Developer;Published+Research+Author;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/nguyenbaoanhle/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100013414933512" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      height="30" width="40" /></a>
-  <a href="https://www.instagram.com/baoanhxelu/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      height="30" width="40" /></a>
-</p>
+<br/><br/>
 
+<a href="https://anhbaonguyenle.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/nguyenbaoanhle/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100013414933512">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/baoanhxelu/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:anhlenguyenbaoanh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=anhbaonguyenle&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    /></p>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=anhbaonguyenle&label=Profile+views&color=0e75b6&style=flat" />
 
-<br>
+</div>
 
+---
+
+## About Me
+
+I am a **WPF Developer** with over a year of professional experience, skilled in learning and adapting quickly to new technologies. I have strong leadership abilities, analytical thinking, and problem-solving skills. My current goal is to expand my expertise and grow into a **Full Stack Developer**, continuously improving both my technical and professional capabilities.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Databases & Tools**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+
+---
+
+## Experience
+
+**C# / WPF Developer** — Vietsens Technology Group &nbsp;`07/2024 – Present`
+> Built desktop EMR application with WPF · MVVM · XAML · Oracle · .NET Framework
+
+**Intern .NET Developer** — IVS Joint Stock Company &nbsp;`04/2024 – 07/2024`
+> Led a team of 7 interns · CRUD features with ASP.NET · PostgreSQL · DevExpress
+
+**Intern Web-Backend Developer** — VNPT &nbsp;`05/2023 – 07/2023`
+> Contract Management module · Laravel (PHP) · MySQL · MVC pattern
+
+---
+
+## Featured Projects
+
+<a href="https://github.com/anhbaonguyenle/EShop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anhbaonguyenle&repo=EShop&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/anhbaonguyenle/Blackjack-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anhbaonguyenle&repo=Blackjack-game&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+## Publications
+
+**[Fake Face Recognition on Images Generated by Various Deepfake Tools](https://link.springer.com/chapter/10.1007/978-981-97-0669-3_5)**
+> Evaluates deepfake generation tools (Deepfakes, Face2Face, FaceSwap, Neural Textures) against deep learning–based detection. Proposes a lightweight architecture with improved detection performance and fewer parameters. — *Springer*
+
+**[An Approach for Object Recognition in Videos for Vocabulary Extraction](https://link.springer.com/chapter/10.1007/978-3-031-59462-5_3)**
+> Real-time object recognition in videos and images using YOLO-based architectures to generate vocabulary, meanings, and example sentences for English learning. Achieved mAP of 55.6 on 59 object classes. — *Springer*
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=anhbaonguyenle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=anhbaonguyenle&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=anhbaonguyenle&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=100&section=footer" width="100%"/>
