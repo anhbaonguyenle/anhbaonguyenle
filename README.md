@@ -27,7 +27,6 @@
 </a>
 
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=anhbaonguyenle&label=Profile+views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -67,8 +66,7 @@ I am a **WPF Developer** with over a year of professional experience, skilled in
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+![Claude Code](https://img.shields.io/badge/Claude-F05032?style=for-the-badge&logo=Anthropic&logoColor=white)
 
 ## Publications
 
